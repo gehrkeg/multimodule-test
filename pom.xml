@@ -22,9 +22,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.apache.maven</groupId>
-  <artifactId>multimodule-test</artifactId>
+  <artifactId>p-a-r-e-n-t multimoudle-test</artifactId>
   <version>1.2-SNAPSHOT</version>
-  <name>Test for multiple modules with release</name>
+  <name>p-a-r-e-n-t</name>
   <description>A project to test release plugin</description>
   <packaging>pom</packaging>
   <licenses>

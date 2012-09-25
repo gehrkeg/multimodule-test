@@ -40,7 +40,7 @@
   </modules>
    <scm>
         <connection>scm:git:https://github.com/krosenvold/multimodule-test.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:krosenvold/multimodule-test.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com/krosenvold/multimodule-test.git</developerConnection>
         <url>http://github.com/krosenvold/multimodule-test</url>
     </scm>
 

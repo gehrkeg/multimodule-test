@@ -22,7 +22,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.apache.maven</groupId>
-  <artifactId>p-a-r-e-n-t multimoudle-test</artifactId>
+  <artifactId>p-a-r-e-nt-multimoudle-test</artifactId>
   <version>1.2-SNAPSHOT</version>
   <name>p-a-r-e-n-t</name>
   <description>A project to test release plugin</description>

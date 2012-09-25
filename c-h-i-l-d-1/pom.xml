@@ -22,9 +22,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.apache.maven.plugins.surefire</groupId>
-  <artifactId>aggregate-child1</artifactId>
+  <artifactId>aggregate-c-h-i-l-d1</artifactId>
   <version>1.1-SNAPSHOT</version>
-  <name>child1 for aggregate-reports</name>
+  <name>c-h-i-l-d-1</name>
 
   <dependencies>
     <dependency>

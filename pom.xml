@@ -39,9 +39,9 @@
     <module>c-h-i-l-d-2</module>
   </modules>
    <scm>
-        <connection>scm:git:https://github.com/krosenvold/selenium-jetty-repack</connection>
-        <developerConnection>scm:git:ssh://git@github.com/krosenvold/selenium-jetty-repack.git</developerConnection>
-        <url>http://github.com/krosenvold/jetty-repack</url>
+        <connection>scm:git:https://github.com/krosenvold/multimodule-test.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:krosenvold/multimodule-test.git</developerConnection>
+        <url>http://github.com/krosenvold/multimodule-test</url>
     </scm>
 
     <developers>

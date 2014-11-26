@@ -24,7 +24,7 @@
   <groupId>org.apache.maven</groupId>
   <artifactId>p-a-r-e-nt-multimoudle-test</artifactId>
   <version>1.4-SNAPSHOT</version>
-  <name>p-a-r-e-n-t</name>
+  <name>c-h-i-l-d</name>
   <description>A project to test release plugin</description>
   <packaging>pom</packaging>
   <licenses>
@@ -35,15 +35,14 @@
     </license>
   </licenses>
   <modules>
-    <module>c-h-i-l-d-1</module>
-    <module>c-h-i-l-d-2</module>
+    <module>../c-h-i-l-d-1</module>
+    <module>../c-h-i-l-d-2</module>
   </modules>
   <scm>
     <connection>scm:git:https://github.com/gehrkeg/multimodule-test.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/gehrkeg/multimodule-test.git</developerConnection>
     <url>http://github.com/gehrkeg/multimodule-test</url>
-    <tag>HEAD</tag>
-  </scm>
+   </scm>
 
   <developers>
     <developer>
